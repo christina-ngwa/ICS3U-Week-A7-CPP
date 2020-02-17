@@ -52,5 +52,5 @@ main() {
     std::cout << std::endl;
     std::cout << "This is your grocery list:" << std::endl;
     for (int counter = 0; counter < 6; counter++) {
-        std::cout << "☐" << groceryList[counter] << std::endl; } */
+        std::cout << "☐" << groceryList[counter] << std::endl; } 
 } 
